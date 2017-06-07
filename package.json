@@ -1,0 +1,23 @@
+{
+  "name": "marcussmith0.github.io",
+  "version": "1.0.0",
+  "description": "This is the portfolio page for Marcus Smith",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcussmith0/marcussmith0.github.io.git"
+  },
+  "author": "Marcus Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcussmith0/marcussmith0.github.io/issues"
+  },
+  "homepage": "https://github.com/marcussmith0/marcussmith0.github.io#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
