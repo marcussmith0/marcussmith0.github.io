@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/marcussmith0/marcussmith0.github.io#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3"
   }
 }

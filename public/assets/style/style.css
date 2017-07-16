@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.marketing-imgs {
+    margin-top: 90px;
+    height: 325px;
+    width: 550px;
+    border-radius: 10px;
+}
+
+.marketing-imgs2 {
+    margin-top: 90px;
+    height: 325px;
+    width: 610px;
+    border-radius: 10px;
+}
+
+.flash {
+    color: #5cb85c;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.weather {
+    color: #3f8ac9;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.command {
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+p {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.signc {
+    font-family: 'Signika', sans-serif;
+    text-shadow: 3px 3px 2px black;
+}
+
+.allyc {  
+    font-family: 'Alegreya', serif;
+    font-weight: bold;
+    text-shadow: 3px 3px 2px black;
+}
+
+.sign {
+    font-family: 'Signika', sans-serif;
+}
+
+.ally {  
+    font-family: 'Alegreya', serif;
+}
